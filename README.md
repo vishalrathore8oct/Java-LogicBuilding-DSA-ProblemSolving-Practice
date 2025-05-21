@@ -15,12 +15,21 @@ Welcome to my personal coding practice repository! This space is dedicated to bu
 
 ---
 
+## 📘 Practice Resources
+
+Explore these resources that I'm using for structured learning and consistent practice for Logic Building:
+
+* 📄 [Kunal Kushwaha's DSA Bootcamp Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/02-first-java.md)
+* 🗃️ [My JavaScript Logic Building Q\&A (Reference)](https://github.com/vishalrathore8oct/JavaScript-LogicBuilding-DSA/blob/main/01_to_07_quesions.md)
+* 🧾 [Google Doc: First Java Assignments](https://docs.google.com/document/d/1KH0DMXC-6hNLEMbcbJEVSx4mVtZ1Ll5JQHg1VLBPMuI/edit#heading=h.2dav3wmuitst)
+---
+
 ## 🛠️ Tech Stack
 
 * Language: **Java (JDK 17+)**
-* Environment: IntelliJ IDEA / Eclipse / VS Code with Java extension
+* Environment: IntelliJ IDEA / Eclipse / VS Code with Java Extension Pack
 * Build Tool: javac / Maven / Gradle (if applicable)
-* Editor: Your choice of Java IDE or code editor
+* Editor: Any preferred Java IDE or editor
 
 ---
 
@@ -46,4 +55,4 @@ This is my personal learning repo, but feel free to explore, fork, and use the p
 💼 LinkedIn: [linkedin.com/in/vishalrathore8oct](https://linkedin.com/in/vishalrathore8oct)
 💻 GitHub: [github.com/vishalrathore8oct](https://github.com/vishalrathore8oct)
 
----
+
